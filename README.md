@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hiya peeps 👋
+My name is Yashasvi Baweja. I am a second year PhD student at JHU working in the field of computer vision, with a focus on face anti-spoofing. 
 <!--
 **yashasvi97/yashasvi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
