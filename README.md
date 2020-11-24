@@ -1,5 +1,15 @@
-### Hiya peeps 👋
-My name is Yashasvi Baweja. I am a second year PhD student at JHU working in the field of computer vision, with a focus on face anti-spoofing. 
+### Hello World 👋
+My name is Yashasvi Baweja. I am a second year PhD student at Johns Hopkins University in the ECE department.
+
+- 🔭 I’m currently working on developing novel face anti-spoofing algorithms.
+- 🌱 I’m currently learning how machine learning systems are built at large scale.
+- 👯 I’m looking to collaborate on building deployable data analytics systems
+- 🤔 I’m looking for help with getting started in systems research
+- 💬 Ask me about why computer vision is almost saturated?
+- 📫 How to reach me: github or email
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play tennis in my free time
+
 <!--
 **yashasvi97/yashasvi97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
