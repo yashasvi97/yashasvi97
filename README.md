@@ -5,7 +5,7 @@ My name is Yashasvi Baweja. I am a second year PhD student at Johns Hopkins Univ
 - 🌱 I’m currently learning how machine learning systems are built at large scale.
 - 👯 I’m looking to collaborate on building deployable data analytics systems
 - 🤔 I’m looking for help with getting started in systems research
-- 💬 Ask me about why computer vision is almost saturated?
+- 💬 Ask me about what computer vision/ml community needs to do make AI more accessible?
 - 📫 How to reach me: github or email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play tennis in my free time
