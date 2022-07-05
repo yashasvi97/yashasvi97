@@ -1,7 +1,7 @@
 ### Hello World 👋
-My name is Yashasvi Baweja. I am a second year PhD student at Johns Hopkins University in the ECE department.
+My name is Yashasvi Baweja. I recently graduated with Masters from Johns Hopkins University, ECE department.
 
-- 🔭 I’m currently working on developing novel face anti-spoofing algorithms.
+- 🔭 I’m currently working on some personal projects in AI/ML.
 - 🌱 I’m currently learning how machine learning systems are built at large scale.
 - 👯 I’m looking to collaborate on building deployable data analytics systems
 - 🤔 I’m looking for help with getting started in systems research
