@@ -105,6 +105,8 @@
 
 </p>
 
+<p> Template taken with 🤩 from <a href="https://github.com/mridulg/">@mridulg</a>
+	</p>
 
 <!-- ### Hello World 👋
 My name is Yashasvi Baweja. I recently graduated with Masters from Johns Hopkins University, ECE department.
