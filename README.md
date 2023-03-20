@@ -99,7 +99,8 @@
 <h1 align="center"></h1>
 
 <p align="center">
-    <a href="https://linkedin.com/in/yashasvi-baweja/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mridulg" height="30" width="30" /></a>
+    <a href="https://linkedin.com/in/yashasvi-baweja/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yashasvi97" height="30" width="30" /></a>
+    <a href="https://dev.to/yashasvi97/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yashasvi97" height="30" width="30" /></a>
 <!--     <a href="https://www.khanacademy.org/profile/mridul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/khanacademy.svg" alt="mridulg" height="30" width="30" /></a> -->
 <!--     <a href="https://fb.com/yemgee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mridulg" height="30" width="30" /></a> -->
 
